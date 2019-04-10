@@ -1,0 +1,70 @@
+{
+  "id": 1327040139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.19247,-13.23061,-176.19247,-13.23061",
+    "geom:latitude":-13.23061,
+    "geom:longitude":-176.19247,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Tekolo",
+    "gn:country_code":"WF",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632474,
+    "gn:latitude":-13.23061,
+    "gn:longitude":-176.19247,
+    "gn:modification_date":"2018-02-20",
+    "gn:name":"Tekolo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tekolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632585,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632474
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"11467d9a661757d1bb9cc32156ccbc94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632585,
+            "empire_id":136253037,
+            "locality_id":1327040139,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327040139,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Tekolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.19247,
+    -13.23061,
+    -176.19247,
+    -13.23061
+],
+  "geometry": {"coordinates":[-176.19246999999999,-13.23061],"type":"Point"}
+}

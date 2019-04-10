@@ -1,0 +1,68 @@
+{
+  "id": 1277000003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.1808,-13.24234,-176.1808,-13.24234",
+    "geom:latitude":-13.24234,
+    "geom:longitude":-176.1808,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kaleva",
+    "gn:country_code":"WF",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632353,
+    "gn:latitude":-13.24234,
+    "gn:longitude":-176.1808,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Kaleva",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kaleva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85680901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632353
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"8184a18a40e9bd6d49e1a52027da47d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1277000003,
+            "region_id":85680901
+        }
+    ],
+    "wof:id":1277000003,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Kaleva",
+    "wof:parent_id":85680901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.1808,
+    -13.24234,
+    -176.1808,
+    -13.24234
+],
+  "geometry": {"coordinates":[-176.1808,-13.24234],"type":"Point"}
+}

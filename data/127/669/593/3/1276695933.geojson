@@ -1,0 +1,66 @@
+{
+  "id": 1276695933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-178.05688,-14.32632,-178.05688,-14.32632",
+    "geom:latitude":-14.32632,
+    "geom:longitude":-178.05688,
+    "gn:admin1_code":"98611.0",
+    "gn:asciiname":"Mua",
+    "gn:country_code":"WF",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034815,
+    "gn:latitude":-14.32632,
+    "gn:longitude":-178.05688,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alofitai",
+        "Mua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034815,
+        "wk:page":"Alofitai"
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"3e0ebf3eef24c79c45e3840dfa7416a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276695933,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276695933,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Mua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -178.05688,
+    -14.32632,
+    -178.05688,
+    -14.32632
+],
+  "geometry": {"coordinates":[-178.05688000000001,-14.32632],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226765771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.18599,-13.29347,-176.18599,-13.29347",
+    "geom:latitude":-13.29347,
+    "geom:longitude":-176.18599,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Taumata",
+    "gn:country_code":"WF",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632470,
+    "gn:latitude":-13.29347,
+    "gn:longitude":-176.18599,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Taumata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Taumata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85680901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632470
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"2e203d465743a3849f0cc811823072f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1226765771,
+            "region_id":85680901
+        }
+    ],
+    "wof:id":1226765771,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Taumata",
+    "wof:parent_id":85680901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.18599,
+    -13.29347,
+    -176.18599,
+    -13.29347
+],
+  "geometry": {"coordinates":[-176.18599,-13.29347],"type":"Point"}
+}

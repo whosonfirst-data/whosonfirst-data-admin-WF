@@ -1,0 +1,68 @@
+{
+  "id": 1259989717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.18024,-13.24465,-176.18024,-13.24465",
+    "geom:latitude":-13.24465,
+    "geom:longitude":-176.18024,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Ala",
+    "gn:country_code":"WF",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632475,
+    "gn:latitude":-13.24465,
+    "gn:longitude":-176.18024,
+    "gn:modification_date":"2018-02-20",
+    "gn:name":"Ala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85680901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632475
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"8732941204e640575c8063db04e2d2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1259989717,
+            "region_id":85680901
+        }
+    ],
+    "wof:id":1259989717,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Ala",
+    "wof:parent_id":85680901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.18024,
+    -13.24465,
+    -176.18024,
+    -13.24465
+],
+  "geometry": {"coordinates":[-176.18024,-13.24465],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243282197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.18333,-13.26667,-176.18333,-13.26667",
+    "geom:latitude":-13.26667,
+    "geom:longitude":-176.18333,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Utuloa",
+    "gn:country_code":"WF",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034761,
+    "gn:latitude":-13.26667,
+    "gn:longitude":-176.18333,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Utuloa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85680901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034761
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"dbd6dee793f4be130075c83d977eb31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1243282197,
+            "region_id":85680901
+        }
+    ],
+    "wof:id":1243282197,
+    "wof:lastmodified":1537040596,
+    "wof:name":"Utuloa",
+    "wof:parent_id":85680901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.18333,
+    -13.26667,
+    -176.18333,
+    -13.26667
+],
+  "geometry": {"coordinates":[-176.18333000000001,-13.26667],"type":"Point"}
+}

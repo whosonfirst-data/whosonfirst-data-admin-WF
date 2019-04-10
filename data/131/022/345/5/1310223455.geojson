@@ -1,0 +1,68 @@
+{
+  "id": 1310223455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.18298,-13.28429,-176.18298,-13.28429",
+    "geom:latitude":-13.28429,
+    "geom:longitude":-176.18298,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Havelu",
+    "gn:country_code":"WF",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632471,
+    "gn:latitude":-13.28429,
+    "gn:longitude":-176.18298,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Havelu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Havelu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85680901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632471
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"dfea62702b8a87e3d4189d5560482f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1310223455,
+            "region_id":85680901
+        }
+    ],
+    "wof:id":1310223455,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Havelu",
+    "wof:parent_id":85680901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.18298,
+    -13.28429,
+    -176.18298,
+    -13.28429
+],
+  "geometry": {"coordinates":[-176.18297999999999,-13.28429],"type":"Point"}
+}

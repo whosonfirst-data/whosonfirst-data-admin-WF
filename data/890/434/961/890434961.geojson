@@ -1,0 +1,81 @@
+{
+  "id": 890434961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.15,-13.21667,-176.15,-13.21667",
+    "geom:latitude":-13.21667,
+    "geom:longitude":-176.15,
+    "gn:country":"WF",
+    "gn:fcode":"PPL",
+    "gn:pop":451,
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0438\u043b\u0430\u043b\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Vailala"
+    ],
+    "name:eng_x_preferred":[
+        "Vailala"
+    ],
+    "name:fre_x_preferred":[
+        "Vailala"
+    ],
+    "name:ger_x_preferred":[
+        "Vailala"
+    ],
+    "name:ita_x_preferred":[
+        "Vailala"
+    ],
+    "qs:name":"Vailala",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":47,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034757,
+        "gp:id":1064134,
+        "qs:id":586030,
+        "wd:id":"Q3553293",
+        "wk:page":"Vailala"
+    },
+    "wof:country":"WF",
+    "wof:created":1469052046,
+    "wof:geomhash":"41e3005614161fb1defc70500c9394f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890434961,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890434961,
+    "wof:lastmodified":1527792946,
+    "wof:name":"Vailala",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":451,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.15,
+    -13.21667,
+    -176.15,
+    -13.21667
+],
+  "geometry": {"coordinates":[-176.15000000000001,-13.21667],"type":"Point"}
+}

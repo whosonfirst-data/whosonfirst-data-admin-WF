@@ -1,0 +1,81 @@
+{
+  "id": 890435049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-178.11667,-14.31667,-178.11667,-14.31667",
+    "geom:latitude":-14.31667,
+    "geom:longitude":-178.11667,
+    "gn:country":"WF",
+    "gn:fcode":"PPL",
+    "gn:pop":239,
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Alo"
+    ],
+    "name:eng_x_preferred":[
+        "Alo"
+    ],
+    "name:fra_x_preferred":[
+        "Ono"
+    ],
+    "name:unk_x_variant":[
+        "Malae"
+    ],
+    "qs:name":"Alo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":165,
+    "wof:belongsto":[
+        85632585,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034885,
+        "gp:id":1064134,
+        "qs:id":586047,
+        "wd:id":"Q350776",
+        "wk:page":"Alo"
+    },
+    "wof:country":"WF",
+    "wof:created":1469052050,
+    "wof:geomhash":"de303568324f943e8d07ab5e231d12b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632585,
+            "empire_id":136253037,
+            "locality_id":890435049,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890435049,
+    "wof:lastmodified":1527793046,
+    "wof:name":"Alo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":239,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -178.11667,
+    -14.31667,
+    -178.11667,
+    -14.31667
+],
+  "geometry": {"coordinates":[-178.11667,-14.31667],"type":"Point"}
+}

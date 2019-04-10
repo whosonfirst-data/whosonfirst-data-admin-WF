@@ -1,0 +1,70 @@
+{
+  "id": 1293599085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.21172,-13.34733,-176.21172,-13.34733",
+    "geom:latitude":-13.34733,
+    "geom:longitude":-176.21172,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Ha'apai",
+    "gn:country_code":"WF",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632438,
+    "gn:latitude":-13.34733,
+    "gn:longitude":-176.21172,
+    "gn:modification_date":"2018-02-20",
+    "gn:name":"Ha\u2019apai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ha\u2019apai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632585,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632438
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"7d2a103f0dbc88ebcf3fc3e01d77b82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632585,
+            "empire_id":136253037,
+            "locality_id":1293599085,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293599085,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Ha'apai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.21172,
+    -13.34733,
+    -176.21172,
+    -13.34733
+],
+  "geometry": {"coordinates":[-176.21172000000001,-13.34733],"type":"Point"}
+}

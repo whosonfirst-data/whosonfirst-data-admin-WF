@@ -1,0 +1,87 @@
+{
+  "id": 890435013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.18333,-13.35,-176.18333,-13.35",
+    "geom:latitude":-13.35,
+    "geom:longitude":-176.18333,
+    "gn:country":"WF",
+    "gn:fcode":"PPL",
+    "gn:pop":635,
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Halalo"
+    ],
+    "name:dut_x_preferred":[
+        "Halalo"
+    ],
+    "name:eng_x_preferred":[
+        "Halalo"
+    ],
+    "name:fre_x_preferred":[
+        "Halalo"
+    ],
+    "name:ger_x_preferred":[
+        "Halalo"
+    ],
+    "name:ita_x_preferred":[
+        "Halalo"
+    ],
+    "name:pol_x_preferred":[
+        "Halalo"
+    ],
+    "name:unk_x_variant":[
+        "Ha\u2019alalo"
+    ],
+    "qs:name":"Halalo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034856,
+        "gp:id":1064134,
+        "qs:id":586041,
+        "wd:id":"Q3782515",
+        "wk:page":"Halalo"
+    },
+    "wof:country":"WF",
+    "wof:created":1469052048,
+    "wof:geomhash":"1679b6a902bfc863052d976de9dd24de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890435013,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890435013,
+    "wof:lastmodified":1527793046,
+    "wof:name":"Halalo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":635,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.18333,
+    -13.35,
+    -176.18333,
+    -13.35
+],
+  "geometry": {"coordinates":[-176.18333000000001,-13.35],"type":"Point"}
+}

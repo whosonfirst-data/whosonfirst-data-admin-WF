@@ -1,0 +1,81 @@
+{
+  "id": 890434965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.16667,-13.21667,-176.16667,-13.21667",
+    "geom:latitude":-13.21667,
+    "geom:longitude":-176.16667,
+    "gn:country":"WF",
+    "gn:fcode":"PPL",
+    "gn:pop":240,
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u0444\u0443\u043e\u043d\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Tufu'one"
+    ],
+    "name:eng_x_preferred":[
+        "Tufu'one"
+    ],
+    "name:fre_x_preferred":[
+        "Tufu'one"
+    ],
+    "name:ger_x_preferred":[
+        "Tufu\u02bbone"
+    ],
+    "name:ita_x_preferred":[
+        "Tufu'one"
+    ],
+    "qs:name":"Tufuone",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":47,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034766,
+        "gp:id":1064134,
+        "qs:id":586033,
+        "wd:id":"Q4000261",
+        "wk:page":"Tufu'one"
+    },
+    "wof:country":"WF",
+    "wof:created":1469052046,
+    "wof:geomhash":"177999ffdf79916d33b9c25cdd10bf4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890434965,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890434965,
+    "wof:lastmodified":1527792942,
+    "wof:name":"Tufuone",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.16667,
+    -13.21667,
+    -176.16667,
+    -13.21667
+],
+  "geometry": {"coordinates":[-176.16667000000001,-13.21667],"type":"Point"}
+}

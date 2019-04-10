@@ -1,0 +1,65 @@
+{
+  "id": 1259989701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.16792,-13.25632,-176.16792,-13.25632",
+    "geom:latitude":-13.25632,
+    "geom:longitude":-176.16792,
+    "gn:admin1_code":"98611.0",
+    "gn:asciiname":"Lano",
+    "gn:country_code":"WF",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034839,
+    "gn:latitude":-13.25632,
+    "gn:longitude":-176.16792,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Lano",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85680901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034839
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"2bed88cbd3416744fe5534478e224690",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1259989701,
+            "region_id":85680901
+        }
+    ],
+    "wof:id":1259989701,
+    "wof:lastmodified":1536624131,
+    "wof:name":"Lano",
+    "wof:parent_id":85680901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.16792,
+    -13.25632,
+    -176.16792,
+    -13.25632
+],
+  "geometry": {"coordinates":[-176.16792000000001,-13.25632],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890434977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-178.16667,-14.3,-178.16667,-14.3",
+    "geom:latitude":-14.3,
+    "geom:longitude":-178.16667,
+    "gn:country":"WF",
+    "gn:fcode":"PPL",
+    "gn:pop":480,
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Leava"
+    ],
+    "qs:name":"Sigav\u00e9",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":157,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034778,
+        "gp:id":1064134,
+        "qs:id":586037,
+        "wd:id":"Q2554877",
+        "wk:page":"Sigave"
+    },
+    "wof:country":"WF",
+    "wof:created":1469052047,
+    "wof:geomhash":"d20640eef960b03d14df933eb3a045f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890434977,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890434977,
+    "wof:lastmodified":1527792945,
+    "wof:name":"Sigav\u00e9",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":480,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -178.16667,
+    -14.3,
+    -178.16667,
+    -14.3
+],
+  "geometry": {"coordinates":[-178.16667000000001,-14.3],"type":"Point"}
+}

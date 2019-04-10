@@ -1,0 +1,70 @@
+{
+  "id": 1343968121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.19661,-13.22211,-176.19661,-13.22211",
+    "geom:latitude":-13.22211,
+    "geom:longitude":-176.19661,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Polata",
+    "gn:country_code":"WF",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632358,
+    "gn:latitude":-13.22211,
+    "gn:longitude":-176.19661,
+    "gn:modification_date":"2018-02-20",
+    "gn:name":"Polata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Polata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632585,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632358
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"a3d4455d1ab6fecc6f23ada21b330a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632585,
+            "empire_id":136253037,
+            "locality_id":1343968121,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343968121,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Polata",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.19661000000005,
+    -13.22211,
+    -176.19661000000005,
+    -13.22211
+],
+  "geometry": {"coordinates":[-176.19661000000005,-13.22211],"type":"Point"}
+}

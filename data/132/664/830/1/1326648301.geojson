@@ -1,0 +1,64 @@
+{
+  "id": 1326648301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.18557,-13.22924,-176.18557,-13.22924",
+    "geom:latitude":-13.22924,
+    "geom:longitude":-176.18557,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Nefunefu",
+    "gn:country_code":"WF",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632355,
+    "gn:latitude":-13.22924,
+    "gn:longitude":-176.18557,
+    "gn:modification_date":"2018-02-20",
+    "gn:name":"Nefunefu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nefunefu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632355
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"fe7907e31eb34644b06a7dbaa520bb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326648301,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326648301,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Nefunefu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.18556999999996,
+    -13.22924,
+    -176.18556999999996,
+    -13.22924
+],
+  "geometry": {"coordinates":[-176.18556999999996,-13.22924],"type":"Point"}
+}

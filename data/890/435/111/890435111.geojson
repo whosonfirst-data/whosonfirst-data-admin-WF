@@ -1,0 +1,63 @@
+{
+  "id": 890435111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.13333,-13.26667,-176.13333,-13.26667",
+    "geom:latitude":-13.26667,
+    "geom:longitude":-176.13333,
+    "gn:country":"WF",
+    "gn:fcode":"PPL",
+    "gn:pop":589,
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Akaka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85680901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034887,
+        "gp:id":1064134,
+        "qs:id":586049
+    },
+    "wof:country":"WF",
+    "wof:created":1469052055,
+    "wof:geomhash":"617c47845b4e01fab35a1c2aafef1bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":890435111,
+            "region_id":85680901
+        }
+    ],
+    "wof:id":890435111,
+    "wof:lastmodified":1506729097,
+    "wof:name":"Akaka",
+    "wof:parent_id":85680901,
+    "wof:placetype":"locality",
+    "wof:population":589,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.13333,
+    -13.26667,
+    -176.13333,
+    -13.26667
+],
+  "geometry": {"coordinates":[-176.13333,-13.26667],"type":"Point"}
+}

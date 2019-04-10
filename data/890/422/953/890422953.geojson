@@ -1,0 +1,88 @@
+{
+  "id": 890422953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-178.06667,-14.31667,-178.06667,-14.31667",
+    "geom:latitude":-14.31667,
+    "geom:longitude":-178.06667,
+    "gn:country":"WF",
+    "gn:fcode":"PPL",
+    "gn:pop":309,
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vele"
+    ],
+    "name:eng_x_preferred":[
+        "Vele"
+    ],
+    "name:fre_x_preferred":[
+        "Vele"
+    ],
+    "name:ita_x_preferred":[
+        "Vele"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30eb"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u0647\u060c \u0648\u0627\u0644\u06cc\u0633 \u0648 \u0641\u0648\u062a\u0648\u0646\u0627"
+    ],
+    "qs:name":"Vel\u00e9",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        85632585,
+        85680905,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034753,
+        "gp:id":1064134,
+        "qs:id":586028,
+        "wd:id":"Q7918875",
+        "wk:page":"Veles Municipality"
+    },
+    "wof:country":"WF",
+    "wof:created":1469051473,
+    "wof:geomhash":"2c5b9733b60baee39cf4bea8a78f90d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632585,
+            "empire_id":136253037,
+            "locality_id":890422953,
+            "region_id":85680905
+        }
+    ],
+    "wof:id":890422953,
+    "wof:lastmodified":1553816393,
+    "wof:name":"Vel\u00e9",
+    "wof:parent_id":85680905,
+    "wof:placetype":"locality",
+    "wof:population":309,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -178.06667,
+    -14.31667,
+    -178.06667,
+    -14.31667
+],
+  "geometry": {"coordinates":[-178.06666999999999,-14.31667],"type":"Point"}
+}

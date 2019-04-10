@@ -1,0 +1,68 @@
+{
+  "id": 1293404489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.18898,-13.30308,-176.18898,-13.30308",
+    "geom:latitude":-13.30308,
+    "geom:longitude":-176.18898,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Makeke",
+    "gn:country_code":"WF",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632468,
+    "gn:latitude":-13.30308,
+    "gn:longitude":-176.18898,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Makeke",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Makeke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85680901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632468
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"19c9cd8f8768a165945431e3d449a883",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1293404489,
+            "region_id":85680901
+        }
+    ],
+    "wof:id":1293404489,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Makeke",
+    "wof:parent_id":85680901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.18898000000004,
+    -13.30308,
+    -176.18898000000004,
+    -13.30308
+],
+  "geometry": {"coordinates":[-176.18898000000004,-13.30308],"type":"Point"}
+}

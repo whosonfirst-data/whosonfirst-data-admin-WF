@@ -1,0 +1,81 @@
+{
+  "id": 890434981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.16667,-13.35,-176.16667,-13.35",
+    "geom:latitude":-13.35,
+    "geom:longitude":-176.16667,
+    "gn:country":"WF",
+    "gn:fcode":"PPL",
+    "gn:pop":171,
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043f\u043e\u043f\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Kolopopo"
+    ],
+    "name:eng_x_preferred":[
+        "Kolopopo"
+    ],
+    "name:fre_x_preferred":[
+        "Kolopopo"
+    ],
+    "name:ger_x_preferred":[
+        "Kolopopo"
+    ],
+    "name:ita_x_preferred":[
+        "Kolopopo"
+    ],
+    "qs:name":"Kolopopo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034843,
+        "gp:id":1064134,
+        "qs:id":586039,
+        "wd:id":"Q3816265",
+        "wk:page":"Kolopopo"
+    },
+    "wof:country":"WF",
+    "wof:created":1469052047,
+    "wof:geomhash":"4330980b147a3cc134a1cf4bf2b1ab62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890434981,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890434981,
+    "wof:lastmodified":1527792950,
+    "wof:name":"Kolopopo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.16667,
+    -13.35,
+    -176.16667,
+    -13.35
+],
+  "geometry": {"coordinates":[-176.16667000000001,-13.35],"type":"Point"}
+}

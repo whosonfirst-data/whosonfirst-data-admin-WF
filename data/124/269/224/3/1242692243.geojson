@@ -1,0 +1,69 @@
+{
+  "id": 1242692243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.18825,-13.31367,-176.18825,-13.31367",
+    "geom:latitude":-13.31367,
+    "geom:longitude":-176.18825,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Lavegahau",
+    "gn:country_code":"WF",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632467,
+    "gn:latitude":-13.31367,
+    "gn:longitude":-176.18825,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Lavegahau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lavegahau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85680901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632467,
+        "wk:page":"Lavegahau"
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"ab06d1b2df3721287baba60f963e7b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1242692243,
+            "region_id":85680901
+        }
+    ],
+    "wof:id":1242692243,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Lavegahau",
+    "wof:parent_id":85680901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.18825,
+    -13.31367,
+    -176.18825,
+    -13.31367
+],
+  "geometry": {"coordinates":[-176.18825000000001,-13.31367],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259501743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.18701,-13.34169,-176.18701,-13.34169",
+    "geom:latitude":-13.34169,
+    "geom:longitude":-176.18701,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Mua",
+    "gn:cc2":"WF",
+    "gn:country_code":"WF",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034816,
+    "gn:latitude":-13.34169,
+    "gn:longitude":-176.18701,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Mua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loto Mua",
+        "Mua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632585,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034816,
+        "wk:page":"Mua_District"
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"661f887ab4651494ee7eb2c623ee419b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632585,
+            "empire_id":136253037,
+            "locality_id":1259501743,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259501743,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Mua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.18701,
+    -13.34169,
+    -176.18701,
+    -13.34169
+],
+  "geometry": {"coordinates":[-176.18700999999999,-13.34169],"type":"Point"}
+}

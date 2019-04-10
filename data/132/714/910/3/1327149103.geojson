@@ -1,0 +1,70 @@
+{
+  "id": 1327149103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.2289,-13.31964,-176.2289,-13.31964",
+    "geom:latitude":-13.31964,
+    "geom:longitude":-176.2289,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Mala'etoli",
+    "gn:country_code":"WF",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632460,
+    "gn:latitude":-13.31964,
+    "gn:longitude":-176.2289,
+    "gn:modification_date":"2018-02-20",
+    "gn:name":"Mala\u2019etoli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mala\u2019etoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632585,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632460
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"19db06154d05f8211d725f40bc9f7fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632585,
+            "empire_id":136253037,
+            "locality_id":1327149103,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327149103,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Mala'etoli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.2289,
+    -13.31964,
+    -176.2289,
+    -13.31964
+],
+  "geometry": {"coordinates":[-176.22890000000001,-13.31964],"type":"Point"}
+}

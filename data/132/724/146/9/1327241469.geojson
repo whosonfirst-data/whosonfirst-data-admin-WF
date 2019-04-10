@@ -1,0 +1,68 @@
+{
+  "id": 1327241469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.16591,-13.27077,-176.16591,-13.27077",
+    "geom:latitude":-13.27077,
+    "geom:longitude":-176.16591,
+    "gn:admin1_code":"98613.0",
+    "gn:asciiname":"Apaogo",
+    "gn:country_code":"WF",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632473,
+    "gn:latitude":-13.27077,
+    "gn:longitude":-176.16591,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Apaogo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Wallis",
+    "iso:country":"WF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Apaogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253037,
+        85680901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632473
+    },
+    "wof:country":"WF",
+    "wof:geomhash":"6c47b644dd4d1897a2f18d175cc336ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":1327241469,
+            "region_id":85680901
+        }
+    ],
+    "wof:id":1327241469,
+    "wof:lastmodified":1537714751,
+    "wof:name":"Apaogo",
+    "wof:parent_id":85680901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-wf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.16591,
+    -13.27077,
+    -176.16591,
+    -13.27077
+],
+  "geometry": {"coordinates":[-176.16591,-13.27077],"type":"Point"}
+}

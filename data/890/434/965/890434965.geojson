@@ -18,19 +18,19 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u0444\u0443\u043e\u043d\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Tufu'one"
+    "name:deu_x_preferred":[
+        "Tufu\u02bbone"
     ],
     "name:eng_x_preferred":[
         "Tufu'one"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tufu'one"
     ],
-    "name:ger_x_preferred":[
-        "Tufu\u02bbone"
-    ],
     "name:ita_x_preferred":[
+        "Tufu'one"
+    ],
+    "name:nld_x_preferred":[
         "Tufu'one"
     ],
     "qs:name":"Tufuone",
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890434965,
-    "wof:lastmodified":1527792942,
+    "wof:lastmodified":1561830378,
     "wof:name":"Tufuone",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

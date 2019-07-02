@@ -18,19 +18,19 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043f\u043e\u043f\u043e"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kolopopo"
     ],
     "name:eng_x_preferred":[
         "Kolopopo"
     ],
-    "name:fre_x_preferred":[
-        "Kolopopo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kolopopo"
     ],
     "name:ita_x_preferred":[
+        "Kolopopo"
+    ],
+    "name:nld_x_preferred":[
         "Kolopopo"
     ],
     "qs:name":"Kolopopo",
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890434981,
-    "wof:lastmodified":1527792950,
+    "wof:lastmodified":1561830378,
     "wof:name":"Kolopopo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

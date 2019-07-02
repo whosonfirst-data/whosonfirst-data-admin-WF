@@ -18,19 +18,19 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u043b\u0430\u043b\u0435\u0443"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Falaleu"
     ],
     "name:eng_x_preferred":[
         "Falaleu"
     ],
-    "name:fre_x_preferred":[
-        "Falaleu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Falaleu"
     ],
     "name:ita_x_preferred":[
+        "Falaleu"
+    ],
+    "name:nld_x_preferred":[
         "Falaleu"
     ],
     "name:pol_x_preferred":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890435021,
-    "wof:lastmodified":1527793051,
+    "wof:lastmodified":1561830378,
     "wof:name":"Falaleu",
     "wof:parent_id":85680901,
     "wof:placetype":"locality",

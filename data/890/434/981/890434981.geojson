@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043f\u043e\u043f\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kolopopo"
+    ],
     "name:deu_x_preferred":[
         "Kolopopo"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890434981,
-    "wof:lastmodified":1561830378,
+    "wof:lastmodified":1563284994,
     "wof:name":"Kolopopo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

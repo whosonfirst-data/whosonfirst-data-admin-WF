@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u0444\u0443\u043e\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Tufuone"
+    ],
     "name:deu_x_preferred":[
         "Tufu\u02bbone"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890434965,
-    "wof:lastmodified":1561830378,
+    "wof:lastmodified":1563284991,
     "wof:name":"Tufuone",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

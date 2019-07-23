@@ -25,10 +25,67 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:afr_x_preferred":[
+        "Sigave"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0633\u064a\u063a\u0627\u0641"
+    ],
+    "name:arg_x_preferred":[
+        "Sigave"
+    ],
+    "name:ast_x_preferred":[
+        "Sigave"
+    ],
+    "name:bam_x_preferred":[
+        "Sigave"
+    ],
+    "name:bar_x_preferred":[
+        "Sigave"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u0997\u09be\u09ad\u09c7"
+    ],
+    "name:bre_x_preferred":[
+        "Sigave"
+    ],
     "name:cat_x_preferred":[
         "Sigave"
     ],
+    "name:ces_x_preferred":[
+        "Sigave"
+    ],
+    "name:cos_x_preferred":[
+        "Sigave"
+    ],
+    "name:cym_x_preferred":[
+        "Sigave"
+    ],
+    "name:dan_x_preferred":[
+        "Sigave"
+    ],
+    "name:deu_x_preferred":[
+        "Sigave"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03b3\u03ba\u03ac\u03b2\u03b5"
+    ],
     "name:eng_x_preferred":[
+        "Sigave"
+    ],
+    "name:epo_x_preferred":[
+        "Sigave"
+    ],
+    "name:est_x_preferred":[
+        "Sigave"
+    ],
+    "name:eus_x_preferred":[
+        "Sigave"
+    ],
+    "name:fao_x_preferred":[
+        "Sigave"
+    ],
+    "name:fin_x_preferred":[
         "Sigave"
     ],
     "name:fra_x_preferred":[
@@ -38,11 +95,137 @@
         "Singave",
         "Circonscription de Sigave"
     ],
+    "name:frc_x_preferred":[
+        "Sigave"
+    ],
+    "name:frp_x_preferred":[
+        "Sigave"
+    ],
+    "name:fur_x_preferred":[
+        "Sigave"
+    ],
+    "name:gla_x_preferred":[
+        "Sigave"
+    ],
+    "name:gle_x_preferred":[
+        "Sigave"
+    ],
+    "name:glg_x_preferred":[
+        "Sigave"
+    ],
+    "name:gsw_x_preferred":[
+        "Sigave"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abf\u0a97\u0ab5\u0ac7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u0917\u0947\u0935"
+    ],
+    "name:hrv_x_preferred":[
+        "Sigave"
+    ],
+    "name:hun_x_preferred":[
+        "Sigave"
+    ],
+    "name:ido_x_preferred":[
+        "Sigave"
+    ],
+    "name:ile_x_preferred":[
+        "Sigave"
+    ],
+    "name:ina_x_preferred":[
+        "Sigave"
+    ],
+    "name:ind_x_preferred":[
+        "Sigave"
+    ],
+    "name:isl_x_preferred":[
+        "Sigave"
+    ],
     "name:ita_x_preferred":[
         "Sigave"
     ],
+    "name:jam_x_preferred":[
+        "Sigave"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ac\u30d9\u9996\u9577\u56fd"
+    ],
+    "name:kab_x_preferred":[
+        "Sigave"
+    ],
+    "name:kal_x_preferred":[
+        "Sigave"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbf\u0c97\u0cc7\u0cb5\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10d2\u10d0\u10d5\u10d8"
+    ],
+    "name:kon_x_preferred":[
+        "Sigave"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\uac00\ubca0"
+    ],
+    "name:lav_x_preferred":[
+        "Sigave"
+    ],
+    "name:lij_x_preferred":[
+        "Sigave"
+    ],
+    "name:lim_x_preferred":[
+        "Sigave"
+    ],
+    "name:lit_x_preferred":[
+        "Sigave"
+    ],
+    "name:ltz_x_preferred":[
+        "Sigave"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093f\u0917\u0935\u0947"
+    ],
+    "name:min_x_preferred":[
+        "Sigave"
+    ],
+    "name:mlg_x_preferred":[
+        "Sigave"
+    ],
+    "name:msa_x_preferred":[
+        "Sigave"
+    ],
+    "name:nap_x_preferred":[
+        "Sigave"
+    ],
+    "name:nds_x_preferred":[
+        "Sigave"
+    ],
+    "name:nld_x_preferred":[
+        "Sigave"
+    ],
+    "name:nno_x_preferred":[
+        "Sigave"
+    ],
+    "name:nob_x_preferred":[
+        "Sigave"
+    ],
+    "name:nrm_x_preferred":[
+        "Sigave"
+    ],
+    "name:oci_x_preferred":[
+        "Sigave"
+    ],
+    "name:pap_x_preferred":[
+        "Sigave"
+    ],
+    "name:pcd_x_preferred":[
+        "Sigave"
+    ],
+    "name:pms_x_preferred":[
+        "Sigave"
     ],
     "name:pol_x_preferred":[
         "Sigave"
@@ -50,14 +233,59 @@
     "name:por_x_preferred":[
         "Sigave"
     ],
+    "name:prg_x_preferred":[
+        "Sigave"
+    ],
+    "name:rgn_x_preferred":[
+        "Sigave"
+    ],
+    "name:roh_x_preferred":[
+        "Sigave"
+    ],
+    "name:ron_x_preferred":[
+        "Sigave"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u0433\u0430\u0432"
+    ],
+    "name:scn_x_preferred":[
+        "Sigave"
+    ],
+    "name:sco_x_preferred":[
+        "Sigave"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd2\u0d9c\u0dcf\u0dc0\u0dda"
+    ],
+    "name:slk_x_preferred":[
+        "Sigave"
     ],
     "name:spa_x_preferred":[
         "Sigave"
     ],
+    "name:srd_x_preferred":[
+        "Sigave"
+    ],
+    "name:swa_x_preferred":[
+        "Sigave"
+    ],
     "name:swe_x_preferred":[
         "Sigave"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3f\u0c17\u0c47\u0c35\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e34\u0e01\u0e32\u0e27\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Sigave"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0433\u0430\u0432\u0435"
     ],
     "name:unk_x_variant":[
         "Singave"
@@ -65,8 +293,32 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u06af\u0627\u0648\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "Sigave"
+    ],
+    "name:vie_x_preferred":[
+        "Sigave"
+    ],
+    "name:vls_x_preferred":[
+        "Sigave"
+    ],
+    "name:vmf_x_preferred":[
+        "Sigave"
+    ],
+    "name:vol_x_preferred":[
+        "Sigave"
+    ],
+    "name:wln_x_preferred":[
+        "Sigave"
+    ],
+    "name:wol_x_preferred":[
+        "Sigave"
+    ],
     "name:zho_x_preferred":[
         "\u9521\u52a0\u97e6"
+    ],
+    "name:zul_x_preferred":[
+        "Sigave"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"WLF",
@@ -190,7 +442,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550622,
+    "wof:lastmodified":1563284987,
     "wof:name":"Sigave",
     "wof:parent_id":85632585,
     "wof:placetype":"region",

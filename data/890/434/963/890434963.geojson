@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0423\u0442\u0443\u0444\u0443\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Utufua"
+    ],
     "name:deu_x_preferred":[
         "Utufua"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890434963,
-    "wof:lastmodified":1561830378,
+    "wof:lastmodified":1563284992,
     "wof:name":"Utufua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

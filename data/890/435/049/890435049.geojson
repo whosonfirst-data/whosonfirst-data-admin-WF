@@ -15,6 +15,9 @@
     "iso:country":"WF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alo"
+    ],
     "name:deu_x_preferred":[
         "Alo"
     ],
@@ -23,6 +26,18 @@
     ],
     "name:fra_x_preferred":[
         "Ono"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Alo"
+    ],
+    "name:spa_x_preferred":[
+        "Alo"
+    ],
+    "name:swe_x_preferred":[
+        "Alo"
     ],
     "name:unk_x_variant":[
         "Malae"
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":890435049,
-    "wof:lastmodified":1527793046,
+    "wof:lastmodified":1563284995,
     "wof:name":"Alo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

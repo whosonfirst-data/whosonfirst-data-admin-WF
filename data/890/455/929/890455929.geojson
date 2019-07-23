@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0445\u043e\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ahoa"
+    ],
     "name:deu_x_preferred":[
         "Ahoa"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890455929,
-    "wof:lastmodified":1561830378,
+    "wof:lastmodified":1563284991,
     "wof:name":"Ahoa",
     "wof:parent_id":85680901,
     "wof:placetype":"locality",

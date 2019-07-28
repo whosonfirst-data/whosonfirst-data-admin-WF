@@ -26,6 +26,18 @@
     "iso:country":"WF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mu\u02bba"
+    ],
+    "name:fra_x_preferred":[
+        "Mu'a"
+    ],
+    "name:ita_x_preferred":[
+        "Mu'a"
+    ],
+    "name:swe_x_preferred":[
+        "Mu'a"
+    ],
     "name:und_x_variant":[
         "Loto Mua",
         "Mua"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1259501743,
-    "wof:lastmodified":1537714751,
+    "wof:lastmodified":1564329688,
     "wof:name":"Mua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

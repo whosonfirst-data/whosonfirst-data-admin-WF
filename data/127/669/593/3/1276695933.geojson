@@ -25,6 +25,24 @@
     "iso:country":"WF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Alofitai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u0641\u06cc\u062a\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Alofitai"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d5\u05e4\u05d9\u05d8\u05d0\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Alofitai"
+    ],
+    "name:nld_x_preferred":[
+        "Alofitai"
+    ],
     "name:und_x_variant":[
         "Alofitai",
         "Mua"
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1276695933,
-    "wof:lastmodified":1537714751,
+    "wof:lastmodified":1564329682,
     "wof:name":"Mua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

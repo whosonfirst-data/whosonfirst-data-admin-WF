@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Alo"
+    ],
     "name:deu_x_preferred":[
         "Alo"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:hbs_x_preferred":[
         "ALO"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0578"
     ],
     "name:ind_x_preferred":[
         "Alo"
@@ -63,6 +69,9 @@
     ],
     "name:srp_x_preferred":[
         "ALO"
+    ],
+    "name:swe_x_preferred":[
+        "Alo"
     ],
     "name:unk_x_variant":[
         "Kingdom of Futuna"
@@ -188,7 +197,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550600,
+    "wof:lastmodified":1564329681,
     "wof:name":"Alo",
     "wof:parent_id":85632585,
     "wof:placetype":"region",

@@ -25,7 +25,16 @@
     "iso:country":"WF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vaimalau"
+    ],
     "name:fra_x_preferred":[
+        "Vaimalau"
+    ],
+    "name:ita_x_preferred":[
+        "Vaimalau"
+    ],
+    "name:pol_x_preferred":[
         "Vaimalau"
     ],
     "name:und_x_variant":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293599397,
-    "wof:lastmodified":1537714751,
+    "wof:lastmodified":1564329681,
     "wof:name":"Vaimalau",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

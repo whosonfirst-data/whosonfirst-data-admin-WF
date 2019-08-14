@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "kingdom"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SI"
+    ],
     "lbl:latitude":-14.265709,
     "lbl:longitude":-178.155827,
     "mps:latitude":-14.265709,
@@ -433,16 +436,13 @@
         }
     ],
     "wof:id":85680897,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563284987,
+    "wof:lastmodified":1565739694,
     "wof:name":"Sigave",
     "wof:parent_id":85632585,
     "wof:placetype":"region",

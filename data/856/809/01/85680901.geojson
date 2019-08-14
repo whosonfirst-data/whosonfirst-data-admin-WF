@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "kingdom"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UV"
+    ],
     "lbl:latitude":-13.261236,
     "lbl:longitude":-176.157525,
     "mps:latitude":-13.261236,
@@ -143,16 +146,13 @@
         }
     ],
     "wof:id":85680901,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550600,
+    "wof:lastmodified":1565739693,
     "wof:name":"`Uvea",
     "wof:parent_id":-1,
     "wof:placetype":"region",

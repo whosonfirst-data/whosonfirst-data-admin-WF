@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "kingdom"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AL"
+    ],
     "lbl:latitude":-14.301218,
     "lbl:longitude":-178.105567,
     "mps:latitude":-14.301218,
@@ -188,16 +191,13 @@
         }
     ],
     "wof:id":85680905,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1564329681,
+    "wof:lastmodified":1565739693,
     "wof:name":"Alo",
     "wof:parent_id":85632585,
     "wof:placetype":"region",

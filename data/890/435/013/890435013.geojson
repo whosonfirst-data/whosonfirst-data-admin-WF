@@ -11,10 +11,14 @@
     "geom:longitude":-176.18333,
     "gn:country":"WF",
     "gn:fcode":"PPL",
-    "gn:pop":635,
+    "gn:population":635,
     "iso:country":"WF",
+    "lbl:bbox":"-176.20333,-13.37,-176.16333,-13.33",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Halalo"
     ],
@@ -39,7 +43,7 @@
     "name:pol_x_preferred":[
         "Halalo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ha\u2019alalo"
     ],
     "name:urd_x_preferred":[
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":4034856,
         "gp:id":1064134,
-        "qs:id":586041,
+        "qs_pg:id":586041,
         "wd:id":"Q3782515",
         "wk:page":"Halalo"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890435013,
-    "wof:lastmodified":1563284995,
+    "wof:lastmodified":1566652692,
     "wof:name":"Halalo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

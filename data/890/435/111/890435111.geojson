@@ -11,10 +11,14 @@
     "geom:longitude":-176.13333,
     "gn:country":"WF",
     "gn:fcode":"PPL",
-    "gn:pop":589,
+    "gn:population":589,
     "iso:country":"WF",
+    "lbl:bbox":"-176.15333,-13.28667,-176.11333,-13.24667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Akaka",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -28,7 +32,7 @@
     "wof:concordances":{
         "gn:id":4034887,
         "gp:id":1064134,
-        "qs:id":586049
+        "qs_pg:id":586049
     },
     "wof:country":"WF",
     "wof:created":1469052055,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890435111,
-    "wof:lastmodified":1506729097,
+    "wof:lastmodified":1566652692,
     "wof:name":"Akaka",
     "wof:parent_id":85680901,
     "wof:placetype":"locality",

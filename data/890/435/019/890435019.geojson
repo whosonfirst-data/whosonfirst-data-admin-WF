@@ -11,10 +11,14 @@
     "geom:longitude":-176.15,
     "gn:country":"WF",
     "gn:fcode":"PPL",
-    "gn:pop":280,
+    "gn:population":280,
     "iso:country":"WF",
+    "lbl:bbox":"-176.17,-13.35333,-176.13,-13.31333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gahi"
     ],
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":4034860,
         "gp:id":1064134,
-        "qs:id":586044,
+        "qs_pg:id":586044,
         "wd:id":"Q5516913",
         "wk:page":"Gahi"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890435019,
-    "wof:lastmodified":1563284996,
+    "wof:lastmodified":1566652693,
     "wof:name":"Gahi",
     "wof:parent_id":85680901,
     "wof:placetype":"locality",

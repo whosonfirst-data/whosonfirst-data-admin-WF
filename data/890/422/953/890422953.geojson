@@ -11,10 +11,14 @@
     "geom:longitude":-178.06667,
     "gn:country":"WF",
     "gn:fcode":"PPL",
-    "gn:pop":309,
+    "gn:population":309,
     "iso:country":"WF",
+    "lbl:bbox":"-178.08667,-14.33667,-178.04667,-14.29667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Vele"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":4034753,
         "gp:id":1064134,
-        "qs:id":586028,
+        "qs_pg:id":586028,
         "wd:id":"Q7918875",
         "wk:page":"Veles Municipality"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890422953,
-    "wof:lastmodified":1563284990,
+    "wof:lastmodified":1566652691,
     "wof:name":"Vel\u00e9",
     "wof:parent_id":85680905,
     "wof:placetype":"locality",

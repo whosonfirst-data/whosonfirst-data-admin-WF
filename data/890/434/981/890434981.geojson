@@ -11,10 +11,14 @@
     "geom:longitude":-176.16667,
     "gn:country":"WF",
     "gn:fcode":"PPL",
-    "gn:pop":171,
+    "gn:population":171,
     "iso:country":"WF",
+    "lbl:bbox":"-176.18667,-13.37,-176.14667,-13.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043f\u043e\u043f\u043e"
     ],
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":4034843,
         "gp:id":1064134,
-        "qs:id":586039,
+        "qs_pg:id":586039,
         "wd:id":"Q3816265",
         "wk:page":"Kolopopo"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890434981,
-    "wof:lastmodified":1563284994,
+    "wof:lastmodified":1566652692,
     "wof:name":"Kolopopo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

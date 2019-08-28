@@ -11,10 +11,14 @@
     "geom:longitude":-178.11667,
     "gn:country":"WF",
     "gn:fcode":"PPL",
-    "gn:pop":239,
+    "gn:population":239,
     "iso:country":"WF",
+    "lbl:bbox":"-178.13667,-14.33667,-178.09667,-14.29667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Alo"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Alo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malae"
     ],
     "qs:name":"Alo",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":4034885,
         "gp:id":1064134,
-        "qs:id":586047,
+        "qs_pg:id":586047,
         "wd:id":"Q350776",
         "wk:page":"Alo"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890435049,
-    "wof:lastmodified":1563284995,
+    "wof:lastmodified":1566652692,
     "wof:name":"Alo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

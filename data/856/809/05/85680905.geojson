@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-14.301218,
     "lbl:longitude":-178.105567,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-14.301218,
     "mps:longitude":-178.105567,
     "mz:hierarchy_label":1,
@@ -76,7 +77,7 @@
     "name:swe_x_preferred":[
         "Alo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kingdom of Futuna"
     ],
     "ne:abbrev":"",
@@ -148,9 +149,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-07-22",
+    "src:population_date":"2013-07-22",
     "statoids:area_km":"85",
     "statoids:area_mi":"33",
     "statoids:as_of_date":"2013-07-22",
@@ -164,7 +165,6 @@
     "statoids:timezone":"+12",
     "statoids:type":"kingdom",
     "wd:wordcount":165,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632585,
@@ -177,7 +177,7 @@
         "gp:id":24549913,
         "hasc:id":"WF.AL",
         "iso:id":"WF-AL",
-        "qs:id":1191251
+        "qs_pg:id":1191251
     },
     "wof:country":"WF",
     "wof:geomhash":"486d4a27062794d3ec9bb5ef75d4536c",
@@ -197,11 +197,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565739693,
+    "wof:lastmodified":1566652688,
     "wof:name":"Alo",
     "wof:parent_id":85632585,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"kingdom",
     "wof:population":2297,
     "wof:population_rank":4,

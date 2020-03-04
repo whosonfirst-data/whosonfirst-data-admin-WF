@@ -138,6 +138,9 @@
         "qs_pg:id":1237232
     },
     "wof:country":"WF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"74239b2e7bc9cd0f1a2b6cc6e4a6bad8",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566652688,
+    "wof:lastmodified":1582379115,
     "wof:name":"`Uvea",
     "wof:parent_id":-1,
     "wof:placetype":"region",

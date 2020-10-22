@@ -9,7 +9,6 @@
     "geom:bbox":"-178.137085641,-14.3789201798,-177.976714648,-14.2555468585",
     "geom:latitude":-14.325937,
     "geom:longitude":-178.064165,
-    "gn:id":"",
     "iso:country":"WF",
     "label:eng_x_preferred_longname":[
         "Alo Kingdom"
@@ -197,7 +196,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566652688,
+    "wof:lastmodified":1603263333,
     "wof:name":"Alo",
     "wof:parent_id":85632585,
     "wof:placetype":"region",

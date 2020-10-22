@@ -9,7 +9,6 @@
     "geom:bbox":"-176.25378418,-13.389583588,-176.125473022,-13.179638863",
     "geom:latitude":-13.284514,
     "geom:longitude":-176.205855,
-    "gn:id":"",
     "iso:country":"WF",
     "label:eng_x_preferred_longname":[
         "`Uvea Kingdom"
@@ -156,7 +155,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1582379115,
+    "wof:lastmodified":1603263333,
     "wof:name":"`Uvea",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -32,6 +32,12 @@
     "name:fra_x_preferred":[
         "Ha\u2019apai"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0'\u05d0\u05e4\u05d0\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Ha'apai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632585,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293599085,
-    "wof:lastmodified":1566652689,
+    "wof:lastmodified":1636504676,
     "wof:name":"Ha'apai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

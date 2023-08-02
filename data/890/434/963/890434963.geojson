@@ -43,6 +43,12 @@
     "name:pol_x_preferred":[
         "Utufua"
     ],
+    "name:rus_x_preferred":[
+        "\u0423\u0442\u0443\u0444\u0443\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0442\u0443\u0444\u0443\u0430"
+    ],
     "qs:name":"Utufua",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890434963,
-    "wof:lastmodified":1566652691,
+    "wof:lastmodified":1690921643,
     "wof:name":"Utufua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

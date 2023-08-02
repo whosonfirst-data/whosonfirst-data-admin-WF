@@ -43,8 +43,17 @@
     "name:pol_x_preferred":[
         "Alele"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043b\u0435"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u06cc\u0644\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "Alele"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u840a\u840a"
     ],
     "qs:name":"Alele",
     "qs:photos_9r":0,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":890435063,
-    "wof:lastmodified":1566652692,
+    "wof:lastmodified":1690921647,
     "wof:name":"Alele",
     "wof:parent_id":85680901,
     "wof:placetype":"locality",

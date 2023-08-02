@@ -25,7 +25,16 @@
     "name:eng_x_preferred":[
         "Liku"
     ],
+    "name:fra_x_preferred":[
+        "Liku"
+    ],
     "name:nld_x_preferred":[
+        "Liku"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043a\u0443"
+    ],
+    "name:wls_x_preferred":[
         "Liku"
     ],
     "qs:name":"Liku",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":890434979,
-    "wof:lastmodified":1566652691,
+    "wof:lastmodified":1690921644,
     "wof:name":"Liku",
     "wof:parent_id":85680901,
     "wof:placetype":"locality",

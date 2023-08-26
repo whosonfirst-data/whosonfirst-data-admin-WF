@@ -40,6 +40,15 @@
     "name:nld_x_preferred":[
         "Kolopopo"
     ],
+    "name:pol_x_preferred":[
+        "Kolopopo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043f\u043e\u043f\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Kolopopo"
+    ],
     "qs:name":"Kolopopo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":890434981,
-    "wof:lastmodified":1566652692,
+    "wof:lastmodified":1690921645,
     "wof:name":"Kolopopo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

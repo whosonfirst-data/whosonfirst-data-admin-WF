@@ -37,7 +37,13 @@
     "name:pol_x_preferred":[
         "Vaitupu"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0438\u0442\u0443\u043f\u0443"
+    ],
     "name:swe_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:wls_x_preferred":[
         "Vaitupu"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890422955,
-    "wof:lastmodified":1566652691,
+    "wof:lastmodified":1690921641,
     "wof:name":"Vaitupu",
     "wof:parent_id":85680901,
     "wof:placetype":"locality",

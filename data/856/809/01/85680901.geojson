@@ -20,11 +20,11 @@
     "label:eng_x_preferred_shortcode":[
         "UV"
     ],
-    "lbl:latitude":-13.261236,
-    "lbl:longitude":-176.157525,
+    "lbl:latitude":-13.283901,
+    "lbl:longitude":-176.206066,
     "lbl:min_zoom":8.0,
-    "mps:latitude":-13.261236,
-    "mps:longitude":-176.157525,
+    "mps:latitude":-13.283901,
+    "mps:longitude":-176.206066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -159,7 +159,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636504676,
+    "wof:lastmodified":1694320596,
     "wof:name":"`Uvea",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002826,
-    "geom:area_square_m":33860748.063337,
+    "geom:area_square_m":33860838.865303,
     "geom:bbox":"-178.18574,-14.313148,-178.126551,-14.232599",
     "geom:latitude":-14.270411,
     "geom:longitude":-178.155263,
@@ -423,13 +423,15 @@
         "gn:id":4034776,
         "gp:id":24549914,
         "hasc:id":"WF.SI",
+        "iso:code":"WF-SG",
         "iso:id":"WF-SG",
         "qs_pg:id":59706,
         "wd:id":"Q2554877",
         "wk:page":"Sigave"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WF",
-    "wof:geomhash":"83cd50e892c543a0a084b459142cbd4c",
+    "wof:geomhash":"b217bb7d5c4dc436cefce74e9e1e7da5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -446,7 +448,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636504676,
+    "wof:lastmodified":1695884956,
     "wof:name":"Sigave",
     "wof:parent_id":85632585,
     "wof:placetype":"region",

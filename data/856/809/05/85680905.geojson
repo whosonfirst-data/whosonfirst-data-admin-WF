@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004991,
-    "geom:area_square_m":59793769.814877,
+    "geom:area_square_m":59793769.81487,
     "geom:bbox":"-178.137085641,-14.3789201798,-177.976714648,-14.2555468585",
     "geom:latitude":-14.325937,
     "geom:longitude":-178.064165,
@@ -176,11 +176,13 @@
         "gn:id":4034884,
         "gp:id":24549913,
         "hasc:id":"WF.AL",
+        "iso:code":"WF-AL",
         "iso:id":"WF-AL",
         "qs_pg:id":1191251
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WF",
-    "wof:geomhash":"486d4a27062794d3ec9bb5ef75d4536c",
+    "wof:geomhash":"89dbf4cd673c17d8b3b82732c7932d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -197,7 +199,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566652688,
+    "wof:lastmodified":1695884327,
     "wof:name":"Alo",
     "wof:parent_id":85632585,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00704,
-    "geom:area_square_m":84718656.008703,
+    "geom:area_square_m":84718883.152113,
     "geom:bbox":"-176.253784,-13.389584,-176.125473,-13.179639",
     "geom:latitude":-13.284514,
     "geom:longitude":-176.205855,
@@ -137,14 +137,16 @@
         "gn:id":4034759,
         "gp:id":24549911,
         "hasc:id":"WF.UV",
+        "iso:code":"WF-UV",
         "iso:id":"WF-UV",
         "qs_pg:id":1237232
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"962bec2a693e0a9b8740d6ee61d73a24",
+    "wof:geomhash":"a511de7cc20ae4aebb3446d35f8d55f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -159,7 +161,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636504676,
+    "wof:lastmodified":1695884956,
     "wof:name":"`Uvea",
     "wof:parent_id":-1,
     "wof:placetype":"region",
